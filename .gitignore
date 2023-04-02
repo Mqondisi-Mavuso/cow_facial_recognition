@@ -5,3 +5,9 @@ Thecowface-1
 cowface-1 Darknet
 face_train_data
 runs
+
+*.zip
+*.pt
+*.png
+*.yaml
+*.jpg
